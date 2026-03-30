@@ -3,7 +3,7 @@
 2. Week 2 – Process & Project : Progress updates, Mid-stage builds
 3. Final – Process & Project : Final working prototype, Demonstration videos, Final outcomes
 
-⚠️ Guidelines
-Capture real process (not staged content)
-Include both successes and failures
-Use captions to explain what is happening
+⚠️ **Guidelines**
+1. Capture real process (not staged content)
+2. Include both successes and failures
+3. Use captions to explain what is happening
